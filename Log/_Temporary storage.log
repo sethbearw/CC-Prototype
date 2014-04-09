@@ -1,0 +1,84 @@
+[Log]
+[03:05:10.610]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 17; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:10.619]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 18; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:10.619]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 19; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:10.619]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 20; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:10.620]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 21; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:10.620]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 22; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:47.390]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 17; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:47.391]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 18; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:47.391]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 19; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:47.392]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 20; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:47.392]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 21; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
+[Log]
+[03:05:47.393]
+ALL
+You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+Warning
+, Line: 22; File /Users/imac152/Desktop/Work/Chuck Chicken Dev/CC Prototype/Assets/_Project/Scripts/Controller/PlayerController.cs
+
